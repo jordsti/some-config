@@ -1,0 +1,5 @@
+config:
+  domain: vpn.sticode.org
+  secret-key: c5a4f498a0c5a0cd7d09f0ca4883e9221394d6ae22baf1eb311e1329bf73f12c
+  my-ip: 127.0.0.1
+
